@@ -1,0 +1,9 @@
+main: com.github.jadc.jadsjetpack.Main
+author: jadc
+version: 1.0
+name: JadsJetpack
+api-version: 1.14
+commands:
+permissions:
+  jadsjetpack.use:
+    default: true

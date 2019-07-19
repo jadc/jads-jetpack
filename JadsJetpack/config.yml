@@ -1,0 +1,25 @@
+# Write the material names of each ingredient to define the Jetpack's shapeless recipe
+# Valid material names: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+recipe:
+  - IRON_CHESTPLATE
+  - TNT
+  - TNT
+  - IRON_BLOCK
+  - IRON_BLOCK
+  - FLINT_AND_STEEL
+  - FLINT_AND_STEEL
+
+# Controls the vertical speed of the Jetpack in m/s
+# Default: 10, 0-127 inclusive
+flightSpeed: 10
+
+# true = information (such as current fuel capacity) will be displayed in your action bar. The action bar is directly above the item tooltip.
+# false = current fuel capacity will not be displayed, and refueling feedback will be displayed in chat.
+# Default: true
+showHUD: true
+
+# Default: true
+showParticles: true
+
+# Default: true
+playSounds: true
