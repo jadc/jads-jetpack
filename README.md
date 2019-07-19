@@ -14,7 +14,7 @@ To actually fly, crouch while in the air and you will begin accelerating upwards
 ## Other Features
 The jetpack absorbs 80% of inflicted fall damage when equipped.
 
-The jetpack absorbs and eliminates any received levitation effects. (i.e. from shulkers)
+The jetpack absorbs and eliminates any received levitation effects. (i.e. from Shulkers)
 
 # Downloads
-Compiled builds of the above source are available [here]().
+Compiled builds of the above source are available [here](https://github.com/jadc/jads-jetpack/releases).
